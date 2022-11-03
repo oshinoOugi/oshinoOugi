@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oshinoOugi)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=console.log('Hello+World+!') )](https://git.io/typing-svg)
 
 <!--
 **oshinoOugi/oshinoOugi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
